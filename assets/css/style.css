@@ -1,0 +1,12 @@
+header{
+    width: 100%;
+    background-color: gray;
+    display:flex;
+}
+
+header h1{
+    background-color: rgb(59, 159, 184);
+    font-size: 75px;
+    color:black;
+    padding: 5px;
+}
