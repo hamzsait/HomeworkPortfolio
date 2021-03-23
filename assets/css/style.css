@@ -73,6 +73,16 @@ nav a:hover {
     margin-left:35px;
 }
 
+.aboutMe p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: black;
+    background:rgba(34,193,195,1);
+    width:40%;
+    margin-left:8%;
+}
+
 .aboutMe a:hover{
     color:white;
 }
