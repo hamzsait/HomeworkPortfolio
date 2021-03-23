@@ -91,11 +91,13 @@ footer {
       text-align:center;
     }
 
+    .welcome article a{
+        margin-right:0px;
+    }
+
     .aboutMe article a{
         margin-left:0px;
     }
 
-    .welcome article a{
-        margin-right:0px;
-    }
+    
 }
