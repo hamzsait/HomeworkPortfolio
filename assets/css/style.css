@@ -41,7 +41,7 @@ nav a:hover {
 }
 
 .welcome{
-    height:150px;
+    height:100px;
     text-align: right;
     margin-top: -45px;
     background: rgb(34,193,195);
@@ -62,15 +62,15 @@ nav a:hover {
 
 .aboutMe{
     width:100%;
-    height:150px;
     text-align: left;
-    margin-top: -30px;
     background:rgba(34,193,195,1);
 }
-.aboutMe article h2{
-    font-size: 35px;
-    margin-left: 35px;
+.aboutMe article a{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
+    color:black;
+    margin-left:35px;
 }
 
 .aboutMe a:hover{
