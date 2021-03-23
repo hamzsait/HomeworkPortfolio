@@ -43,10 +43,12 @@ nav a:hover {
 .welcome{
     width:100%;
     height:200px;
+    text-align: right;
 }
 
 .welcome h2{
     font-size: 35px;
+    margin-right: 25px;
 }
 
 @media screen and (max-width: 768px) {
