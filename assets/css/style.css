@@ -1,47 +1,49 @@
 body {
     display: flex;
     flex-direction: column;
-  }
-  
-  header {
+}
+
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding:10px;
     background-color: rgb(175, 94, 2);
     color: black;
-  }
+}
   
-  header h1 {
+header h1 {
     font-size: 250%
-  }
+}
 
-  header h1:hover{
+header h1:hover{
     color:white;
-  }
+}
   
-  nav ul {
+nav ul {
     display: flex;
     justify-content:space-between;
     min-width: 300px;
     list-style: none;
-  }
+}
   
-  nav a {
+nav a {
     color: black;
     font-weight: bold;
     text-decoration: none;
     font-size: 20px;
     width: 5%;
     padding:10px;
-  }
+}
   
-  nav a:hover {
+nav a:hover {
     color: #fff;
-  }
+}
 
-  @media screen and (max-width: 768px) {
+ 
+
+@media screen and (max-width: 768px) {
     header, main {
       flex-direction: column;
-    }
   }
+}
