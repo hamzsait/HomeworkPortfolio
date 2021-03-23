@@ -87,6 +87,15 @@ footer {
 
 @media screen and (max-width: 768px) {
     header, main, .aboutMe, .welcome {
-      flex-direction: column;
-  }
+      display:block;
+      text-align:center;
+    }
+
+    .aboutMe article a{
+        margin-left:0px;
+    }
+
+    .welcome article a{
+        margin-right:0px;
+    }
 }
