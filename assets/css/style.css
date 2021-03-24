@@ -190,12 +190,11 @@ footer {
     text-align: left;
     background:rgba(90, 227, 230);
     display:flex;
-    justify-content: space-around;
-    position: relative;
+    justify-content: flex-start;
     flex-direction: row;
 }
 
-.contactMe a{
+#contactMe{
     font-size: 45px;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
@@ -205,22 +204,31 @@ footer {
     padding-right: 20px;
 }
 
-.contactMe p{
-    font-size: 20px;
+.contactMe li{
+    font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
     color: black;
     background:rgba(90, 227, 230);
-    width:35%;
-    margin-right:30%;
     display:inline;
+    margin-left: 80px;
+    margin-right: 100px;
 }
 
-.aboutMe a:hover{
+.contactMe ul{
+    list-style: none;
+}
+
+.contactMe ul li a {
+    padding:5px;
+    text-decoration: none;
+}
+
+.contactMe a:hover{
     color:white;
 }
 
-.aboutMe img{
+.contactMe img{
     min-width: 250px;
     min-height: 50px;
     position:absolute;
