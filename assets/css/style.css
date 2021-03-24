@@ -204,6 +204,14 @@ footer {
     padding-right: 20px;
 }
 
+.contactMe a:hover{
+    color:white;
+}
+
+.contactMe a{
+    color:black;
+}
+
 .contactMe li{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
@@ -222,10 +230,6 @@ footer {
 .contactMe ul li a {
     padding:5px;
     text-decoration: none;
-}
-
-#contactMes a:hover{
-    color:white;
 }
 
 .contactMe img{
