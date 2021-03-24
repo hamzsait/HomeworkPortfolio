@@ -6,9 +6,7 @@ My website was brokedn up into four main sections:
 
 1. Header
 
-    This section was created by an H1 tag an an unordered list under the nav tags. 
-    
-    When any items in the unordered list are cliked they will link to a section of the page with the exception of the resume link. This link will take you to a pdf of my resume. 
+    This section was created by an H1 tag an an unordered list under the nav tags. When any items in the unordered list are cliked they will link to a section of the page with the exception of the resume link. This link will take you to a pdf of my resume. 
 
 2. Welcome Bar
 
