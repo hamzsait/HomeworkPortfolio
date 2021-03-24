@@ -34,10 +34,13 @@ My website was brokedn up into five main sections:
 
 ![welcome](./assets/images/READMEImages/contactMe.png) 
 
-### View the Website here: 
+### View the Website here: [Website](https://hamzsait.github.io/HomeworkPortfolio/)
 
 
-### View the GitHub here:
+
+### View the GitHub here: [GitHub](https://github.com/hamzsait/HomeworkPortfolio)
+
+
 
 
 
